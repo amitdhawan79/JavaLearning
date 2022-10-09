@@ -8,6 +8,7 @@ public class Student
 	{
 		//boundary of the method
 		System.out.println("Welcome to all of you");
+		System.out.println("Automation is easy");
 	}
 	public static void main(String[] args)
 	{
